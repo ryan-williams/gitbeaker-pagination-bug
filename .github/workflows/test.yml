@@ -5,4 +5,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: npm i
+      - run: |
+          node --version
+          npm --version
+          npm ls
       - run: node trees-test.js
