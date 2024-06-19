@@ -12,4 +12,6 @@ jobs:
           node --version
           npm --version
           npm ls
-      - run: node trees-test.js
+      - run: node trees.js
+      - run: node subprojects.js
+      - run: node root-group.js
