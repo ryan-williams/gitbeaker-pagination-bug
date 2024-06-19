@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@gitbeaker/rest": "^40.0.3"
+    }
+}
