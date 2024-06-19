@@ -1,6 +1,6 @@
 # gitbeaker-pagination-bug
 
-See [.github/workflows/test.yml]:
+Repro:
 ```bash
 npm i
 node trees-test.js
@@ -183,6 +183,9 @@ but it receives 22 items, and no pagination info:
 ```
 </details>
 
+[Here's a live repro][GHA] in GitHub Actions.
+
 [.github/workflows/test.yml]: .github/workflows/test.yml
 [trees-test.js]: trees-test.js
 [hudcostreets/ctbk.dev]: https://gitlab.com/hudcostreets/ctbk.dev
+[GHA]: https://github.com/ryan-williams/gitbeaker-pagination-bug/actions/runs/9584785599/job/26429169142#step:4:5
