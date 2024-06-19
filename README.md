@@ -188,4 +188,4 @@ but it receives 22 items, and no pagination info:
 [.github/workflows/test.yml]: .github/workflows/test.yml
 [trees-test.js]: trees-test.js
 [hudcostreets/ctbk.dev]: https://gitlab.com/hudcostreets/ctbk.dev
-[GHA]: https://github.com/ryan-williams/gitbeaker-pagination-bug/actions/runs/9584785599/job/26429169142#step:4:5
+[GHA]: https://github.com/ryan-williams/gitbeaker-pagination-bug/actions/runs/9584847583/job/26429378652#step:5:5
